@@ -192,6 +192,7 @@ A simple project to store useful links for whose want to get more information ab
 * [CoinTelegraph](https://cointelegraph.com/)
 * [Token Economy](https://tokeneconomy.co/)
 * [CryptoPanic](https://cryptopanic.com/)
+* [CoinBuzz.stream](https://coinbuzz.stream/)
 * Brazilian Portuguese
     * [Criptomoeda.org](https://www.criptomoeda.org/)
 
